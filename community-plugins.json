@@ -34445,5 +34445,13 @@
     "author": "LeonYew-Ley",
     "description": "Hide timestamp prefixes in Zettelkasten-style internal link display text without changing notes or filenames. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leonyew-ley/obsidian-time-stamp-hider"
+  },
+  {
+    "id": "ara",
+    "name": "ARA",
+    "author": "Ax",
+    "description": "Click an already-active file in Obsidian's file explorer to rename it inline — just like Windows File Explorer. No right-click, no F2, no context menu. Single-click to rename, Enter to confirm, Escape to cancel.",
+    "repo": "aaa-mvc/ara"
   }
+  
 ]
